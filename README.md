@@ -1,23 +1,16 @@
-### Hola Soy Vania 👋
+## *Hola Soy Vania 👋
 
 Me gusta aprender cosas nuevas para mejorar mis habilidades y al trabajar en diferentes empresas manejando varios programas como puntos de venta, administrativos etc., me di cuenta que hay un campo de la tecnología el cual no conocía, el ver que se puede crear lo que te imagines y lo avanzada que esta y poder pasar de ser usuaria a poder crearlos es maravilloso.
 
 
-- 🌱 Actualmente estoy aprendiendo: 
-- 📫 Como contactarme: En https://www.linkedin.com/in/vania-mart%C3%ADnez-l%C3%B3pez-73b698256/ y vmlvcs@gmail.com
+ 🔭 Conocimientos: JavaScript,
+                   HTML,
+                   CCS,
+                   Node.js,
+                   React.js,
+                   Redux,
+                   SQL
+                   
+ 📫 Email: vmlvcs@gmail.com
 
 
-<!--
-**VaniaML/VaniaML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
